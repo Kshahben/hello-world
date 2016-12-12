@@ -5,8 +5,6 @@
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="../style/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="../style/style.css">
-		
-	<link href="https://fonts.googleapis.com/css?family=Codystar:300" rel="stylesheet">
 </head>
 <body>
 		<h1>Bullet Journal</h1>
